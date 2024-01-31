@@ -8,6 +8,8 @@
 ---
 * BluePrint : https://miro.com/app/board/uXjVN1MknRw=/?share_link_id=713249953427
 ---
+* Backlog : https://docs.google.com/spreadsheets/d/11PFoZVBk1z0uTpPV1hrFcQuh3XMoxHUIZ-7bihf4n_0/edit?usp=sharing
+---
 
 ## MEMBER 
 ![StudentPhoto](./media/studentphoto.png)
