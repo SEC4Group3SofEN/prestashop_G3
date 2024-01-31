@@ -10,6 +10,8 @@
 ---
 * Backlog : https://docs.google.com/spreadsheets/d/11PFoZVBk1z0uTpPV1hrFcQuh3XMoxHUIZ-7bihf4n_0/edit?usp=sharing
 ---
+* UI : https://www.canva.com/design/DAF7J8Z4qQc/y6KAV3x816Xu31FQYYPxRw/view?mode=prototype
+---
 
 ## MEMBER 
 ![StudentPhoto](./media/studentphoto.png)
