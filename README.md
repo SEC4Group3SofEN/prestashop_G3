@@ -6,6 +6,9 @@
 ---
 * UTA-Test : https://docs.google.com/spreadsheets/d/1uvvA32Kb9gHReGhS8T9JvHBbQY3Jb3h2u5Q52Ujeq3Y/edit?usp=sharing
 ---
+* BluePrint : https://miro.com/app/board/uXjVN1MknRw=/?share_link_id=713249953427
+---
+
 ## MEMBER 
 ![StudentPhoto](./media/studentphoto.png)
 * NUTTAKIT THAIPHUTTRA
