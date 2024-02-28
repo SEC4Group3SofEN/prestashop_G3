@@ -541,8 +541,8 @@ test('TC39', async ({ page }) => {
   await page.getByLabel('จัดเรียงตามการเลือก').scrollIntoViewIfNeeded();
   await page.getByLabel('จัดเรียงตามการเลือก').click();
   await expect(page.locator('#js-product-list-top')).toContainText('สิ่งที่เกี่ยวข้อง');
-  await expect(page.locator('#js-product-list-top')).toContainText('ตามชื่อ A ถึง Z');
-  await expect(page.locator('#js-product-list-top')).toContainText('ตามชื่อ Z ถึง A');
+  await expect(page.locator('#js-product-list-top')).toContainText('ตามชื่อ ก ถึง ฮ');
+  await expect(page.locator('#js-product-list-top')).toContainText('ตามชื่อ ฮ ถึง ก');
   await expect(page.locator('#js-product-list-top')).toContainText('ราคา : จากน้อยไปมาก');
   await expect(page.locator('#js-product-list-top')).toContainText('ราคา: จากมากไปน้อย');
   await page.waitForTimeout(1000);
